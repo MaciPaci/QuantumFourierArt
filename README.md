@@ -60,6 +60,8 @@ To switch between quantum providers simply pass desired client into the job exec
 
 ### Image after transformations:
 
+![](./output_img/parrot.gif)
+
 #### Resolution 10x10
 
 ![Resolution 10x10](./output_img/parrot10.png)
