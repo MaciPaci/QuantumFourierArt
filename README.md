@@ -46,6 +46,12 @@ The general outline for this algorithm is as follows:
    world this would result in a perfect reproduction of an input image)
 5. Save resulting image to a file
 
+### Switching between simulated and real quantum computers
+To switch between quantum providers simply pass desired client into the job execution in `main.py`:
+```
+        job = execute(qc, <real/sim>, shots=1)
+```
+
 ## Results
 
 ### Example input image:
