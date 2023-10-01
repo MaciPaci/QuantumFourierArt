@@ -1,0 +1,10 @@
+matplotlib==3.8.0
+numpy==1.23.5
+opencv_python==4.8.1.78
+qiskit==0.44.1
+qiskit_ibm_provider==0.7.0
+qiskit_ibmq_provider==0.20.2
+qiskit_terra==0.25.1
+
+opencv-python~=4.8.1.78
+decouple~=0.0.7
